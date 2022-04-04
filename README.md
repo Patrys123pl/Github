@@ -1,2 +1,2 @@
-# Github
+# cwiczenia
 Description
